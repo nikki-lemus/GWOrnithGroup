@@ -1,6 +1,10 @@
 Members: Alex Files, Katherine Crawford, Chase Dontworryaboutit, Nikki Lemus
 
 ================
+# Instructions for members when working on code
+- annotate your code while writing
+- keep version control record often with commits and tags
+
 # Bunker data
 
 Overall goal:Taking bunker resurvey data and making figures including maps, maybe biodiversity or spp counts
