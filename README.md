@@ -1,4 +1,4 @@
-Members: Alex Files, Katherine Crawford, Chase Dontworryaboutit, Nikki Lemus
+Members: Alex Files, Katherine Crawford, Chase Perkins, Nikki Lemus
 
 ================
 # Bunker data
