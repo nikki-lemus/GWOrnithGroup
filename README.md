@@ -1,3 +1,4 @@
+Members: Alex Files, Katherine Crawford, Chase Perkins, Nikki Lemus
 
 # Instructions for members when working on code
 - annotate your code while writing
