@@ -22,9 +22,9 @@ Overall goal:Taking bunker resurvey data and making figures including maps, mayb
 - then they will make image files of these and put them in the repository
 - images will be included in markdown files
 - ALex will make maps
-- Katherine will edit working csv and make visualization of info (phylo)
-- Chase will make visualization of data
-- Nikki will manage files and make biodiversity exploration
+- Katherine will edit working csv
+- Chase will make visualization of family representations
+- Nikki will manage files 
 
 
 *list of who does what*
